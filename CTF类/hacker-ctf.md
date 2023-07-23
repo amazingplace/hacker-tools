@@ -12,6 +12,9 @@
 |WinHex| 一个十六进制编辑器应用程序，被应用在磁盘数据恢复及数字取证用途                 |https://www.aliyundrive.com/s/vzpTKLJstNo|
 |stegosaurus| pyc隐写破解工具                                       |https://pan.baidu.com/s/16l4G-VMXRFekJ4FdJQAg7A?pwd=517j|
 |ZipCenOp| zip伪加密破解工具                                      |https://www.aliyundrive.com/s/dYQd9sBBiWa|
-
+|NtfsStreamsEditor2| Ntfs流隐写破解工具                                     |https://pan.baidu.com/s/1uJsSuGHmaN38KC07Jja_2g?pwd=ry68|
+|zipMFile| zip修复工具                                         |https://pan.baidu.com/s/1fbb5lNmaftPYiCV-D7eexQ?pwd=7flr|
+|CRC32-Tools| 一款CTFer专属的CRC碰撞全自动化脚本                           |https://github.com/AabyssZG/CRC32-Tools|
+|unlead gif| 一款gif图像编辑软件                                     |https://pan.baidu.com/s/1yie2_FYm2Ytm2nrujw_5Qg?pwd=gj1p|
 
 希望您喜欢这些黑客工具！我们将持续更新和完善这个项目，如果您有其他有趣的黑客工具或对现有工具的改进建议，请随时提交PR，让我们一起加强网络安全防御，保护网络世界！🌐💪
