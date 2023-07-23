@@ -6,7 +6,8 @@
 |--------------------|--------------------------------|----------------------------------------------------|
 | Xmind              | 专注于做思维导图的文档编写工具                | https://xmind.cn/download/                         |
 | Clash              | 基于规则的跨平台代理软件核心程序               | https://wwwl.lanzouw.com/iWnqw13a9zgf <br/>密码:55ap |
-|OpenVPN|一个用于创建虚拟私人网络加密通道的软件包|https://openvpn.net/client/client-connect-vpn-for-windows/|
+|OpenVPN| 一个用于创建虚拟私人网络加密通道的软件包           |https://openvpn.net/client/client-connect-vpn-for-windows/|
+|v2rayN| 多功能代理工具                        |https://github.com/2dust/v2rayN/releases|
 | 夜神模拟器              | 安卓端模拟抓包的利器                     |https://www.yeshen.com/|
 | 火绒安全               | 火绒公司推出的一款Windows操作系统下的个人电脑安全软件 |https://www.huorong.cn/person5.html?v=1|
 | ccleaner           | 世界上最受欢迎的 PC 清理工具               |https://www.ccleaner.com/zh-cn/ccleaner/download|
