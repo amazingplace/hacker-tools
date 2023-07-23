@@ -24,6 +24,7 @@
 | Docker Desktop                | 一个开放源代码的开放平台软件，用于开发应用、交付应用和运行应用                    |https://www.docker.com/products/docker-desktop/|
 |Apache Tomcat| 实现了对Servlet和JavaServer Page的支持，并提供了作为Web服务器的一些特有功能 |https://tomcat.apache.org/download-90.cgi|
 |Apache Maven| 一个Java软件项目管理及自动构建工具                                |https://maven.apache.org/download.cgi|
-|Git|一个分布式版本控制软件|https://git-scm.com/downloads|
+|Git| 一个分布式版本控制软件                                        |https://git-scm.com/downloads|
+|Jenv| Java多版本切换工具                                        |https://github.com/FelixSelter/JEnv-for-Windows/releases|
 
 希望您喜欢这些黑客工具！我们将持续更新和完善这个项目，如果您有其他有趣的黑客工具或对现有工具的改进建议，请随时提交PR，让我们一起加强网络安全防御，保护网络世界！🌐💪
