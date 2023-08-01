@@ -16,15 +16,16 @@
 | Go Dev                        | Go语言环境                                             |https://go.dev/doc/install|
 | Python Dev                    | Python语言环境                                         |https://www.python.org/downloads/|
 | Lua Dev                       | Lua语言环境                                            |https://www.lua.org/download.html|
+| Ruby Dev                      | Ruby语言环境                                           |https://rubyinstaller.org/downloads/|
 | NodeJs                        | nodejs环境                                           |https://nodejs.org/zh-cn/download|
 | Another Redis Desktop Manager | redis桌面管理器                                         |https://github.com/qishibo/AnotherRedisDesktopManager/releases|
 | Postman                       | 一个API平台，供开发人员设计，构建，测试和迭代其API                       |https://www.postman.com/downloads/|
 | Phpstudy                      | PHP服务器部署工具                                         |https://www.xp.cn/|
 | Navicat                       | 一套可创建多个连接的数据库管理工具                                  |https://www.navicat.com.cn/download/navicat-premium|
 | Docker Desktop                | 一个开放源代码的开放平台软件，用于开发应用、交付应用和运行应用                    |https://www.docker.com/products/docker-desktop/|
-|Apache Tomcat| 实现了对Servlet和JavaServer Page的支持，并提供了作为Web服务器的一些特有功能 |https://tomcat.apache.org/download-90.cgi|
-|Apache Maven| 一个Java软件项目管理及自动构建工具                                |https://maven.apache.org/download.cgi|
-|Git| 一个分布式版本控制软件                                        |https://git-scm.com/downloads|
-|Jenv| Java多版本切换工具                                        |https://github.com/FelixSelter/JEnv-for-Windows/releases|
+| Apache Tomcat                 | 实现了对Servlet和JavaServer Page的支持，并提供了作为Web服务器的一些特有功能 |https://tomcat.apache.org/download-90.cgi|
+| Apache Maven                  | 一个Java软件项目管理及自动构建工具                                |https://maven.apache.org/download.cgi|
+| Git                           | 一个分布式版本控制软件                                        |https://git-scm.com/downloads|
+| Jenv                          | Java多版本切换工具                                        |https://github.com/FelixSelter/JEnv-for-Windows/releases|
 
 希望您喜欢这些黑客工具！我们将持续更新和完善这个项目，如果您有其他有趣的黑客工具或对现有工具的改进建议，请随时提交PR，让我们一起加强网络安全防御，保护网络世界！🌐💪
