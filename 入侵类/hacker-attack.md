@@ -10,6 +10,6 @@
 | Cobalt Strike |Cobalt Strike已经不再使用MSF而是作为单独的平台使用，它分为客户端与服务端，服务端是一个，客户端可以有多个，可被团队进行分布式协团操作|https://pan.baidu.com/s/13ZnzPwYmVhVRkLKq2tn72w?pwd=z1hi|
 | Xshell        |业界最强大的SSH客户机|https://www.xshell.com/zh/free-for-home-school/|
 | Xftp          |轻松地通过网络传输文件|https://www.xshell.com/zh/free-for-home-school/|
-
+| msf           |一款开源安全漏洞检测工具，附带数千个已知的软件漏洞，并保持持续更新|https://www.metasploit.com/download|
 
 希望您喜欢这些黑客工具！我们将持续更新和完善这个项目，如果您有其他有趣的黑客工具或对现有工具的改进建议，请随时提交PR，让我们一起加强网络安全防御，保护网络世界！🌐💪
