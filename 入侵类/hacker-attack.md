@@ -12,6 +12,6 @@
 | Xftp          | 轻松地通过网络传输文件                                                                |https://www.xshell.com/zh/free-for-home-school/|
 | msf           | 一款开源安全漏洞检测工具，附带数千个已知的软件漏洞，并保持持续更新                                          |https://www.metasploit.com/download|
 |ProcDump| 用于在Windows系统上生成进程转储文件（dump file）以进行分析                                      |https://learn.microsoft.com/zh-cn/sysinternals/downloads/ProcDump|
-
+|Linux-exploit-suggester|Linux 权限提升审核工具|https://github.com/The-Z-Labs/linux-exploit-suggester|
 
 希望您喜欢这些黑客工具！我们将持续更新和完善这个项目，如果您有其他有趣的黑客工具或对现有工具的改进建议，请随时提交PR，让我们一起加强网络安全防御，保护网络世界！🌐💪
