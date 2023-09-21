@@ -16,5 +16,8 @@
 | VMware Workstation | 虚拟机运行软件                        |https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html|
 | Office Tool Plus   | 一个强大且实用的 Office 部署工具           |https://otp.landian.vip/zh-cn/download.html|
 | 贝锐向日葵                 | 高速远程控制软件                       |https://sunlogin.oray.com/|
+|Adobe Acrobat DC 2022 x64 SP| PDF编辑软件破解版，可免费pdf转其他格式         |https://pan.baidu.com/s/1aO6jDw2l_vA-C2SR6zCuOg?pwd=jkmd|
+
+
 
 希望您喜欢这些黑客工具！我们将持续更新和完善这个项目，如果您有其他有趣的黑客工具或对现有工具的改进建议，请随时提交PR，让我们一起加强网络安全防御，保护网络世界！🌐💪
