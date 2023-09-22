@@ -18,7 +18,5 @@
 | 国密SM4加解密工具         | 国密SM4加解密工具                                      |https://pan.baidu.com/s/1auN1XvSUyJj8HYc18BD8gA?pwd=l7oc|
 | 轩禹CTF_RSA工具        | RSA破解攻击工具                                       |https://pan.baidu.com/s/1MVLXUYgfrK8AtM0iDq6tRQ?pwd=dx76|
 | CTFcrackTools      | 一款综合的解密程序                                       |https://pan.baidu.com/s/1ai73L7yASG5QI7Wd74LUpQ?pwd=s5nu|
-| FFI万能脱壳工具          | 脱壳神器                                            |https://pan.baidu.com/s/1YiwmitNXEqcdXeH3t1pZgw?pwd=8l8t|
-|PEiD| 查壳工具                                            |https://pan.baidu.com/s/1-ULgVuoL5WJKF90be5NXWg?pwd=iy2s|
 
 希望您喜欢这些黑客工具！我们将持续更新和完善这个项目，如果您有其他有趣的黑客工具或对现有工具的改进建议，请随时提交PR，让我们一起加强网络安全防御，保护网络世界！🌐💪
