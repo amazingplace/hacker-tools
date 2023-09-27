@@ -13,6 +13,7 @@
 | msf                     | 一款开源安全漏洞检测工具，附带数千个已知的软件漏洞，并保持持续更新                                          |https://www.metasploit.com/download|
 | ProcDump                | 用于在Windows系统上生成进程转储文件（dump file）以进行分析                                      |https://learn.microsoft.com/zh-cn/sysinternals/downloads/ProcDump|
 | Linux-exploit-suggester |Linux 权限提升审核工具|https://github.com/The-Z-Labs/linux-exploit-suggester|
+|Windows-Exploit-Suggester| Windows 权限提升审核工具        |https://github.com/AonCyberLabs/Windows-Exploit-Suggester|
 | VMProtect               |新一代的软件保护系统。将保护后的代码放到虚拟机中运行，会使分析反编译的代码和破解变得极为困难|链接：https://pan.baidu.com/s/1dN6Hxo2-8Dx6RkUSyKNjmQ?pwd=t3uk |
 | f8x                     |红/蓝队环境自动化部署工具|https://github.com/ffffffff0x/f8x|
 | frp                     |快速反向代理，可帮助您将 NAT 或防火墙后面的本地服务器暴露给互联网|https://github.com/fatedier/frp/|
