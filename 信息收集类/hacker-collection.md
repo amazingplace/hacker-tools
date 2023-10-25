@@ -11,6 +11,8 @@
 | WebRobot      | 大蜘蛛：网络安全检测工具                |https://pan.baidu.com/s/12Mv2NCMOYJM6-pewynCwPw?pwd=nzvh|
 | 御剑            | 后台地址发现工具                    |https://pan.baidu.com/s/1VHfIWj48cTt2lEAGaCIo1Q?pwd=ecr5|
 |ds_store_exp| 发现DS_Store中的秘密              |https://github.com/lijiejie/ds_store_exp|
+|Seay-Svn| SVN源代码泄露利用工具 |https://github.com/Introspelliam/tools/blob/master/Seay-Svn/源代码泄露漏洞利用工具.exe|
+
 
 
 希望您喜欢这些黑客工具！我们将持续更新和完善这个项目，如果您有其他有趣的黑客工具或对现有工具的改进建议，请随时提交PR，让我们一起加强网络安全防御，保护网络世界！🌐💪

@@ -10,5 +10,10 @@
 |易优超级字典生成器superdic| 爆破字典生成工具                                    |https://pan.baidu.com/s/1Z3UbMCI2Z8qLTvExEUWGNw?pwd=kx04|
 |cheetah| webshell爆破工具                                |https://github.com/shmilylty/cheetah/tree/master|
 |upload-fuzz-dic-builder|上传漏洞fuzz字典生成脚本|https://github.com/c0ny1/upload-fuzz-dic-builder|
+|WebCrack|批量后台密码爆破脚本|https://github.com/yzddmr6/WebCrack|
+
+
+
+
 
 希望您喜欢这些黑客工具！我们将持续更新和完善这个项目，如果您有其他有趣的黑客工具或对现有工具的改进建议，请随时提交PR，让我们一起加强网络安全防御，保护网络世界！🌐💪
