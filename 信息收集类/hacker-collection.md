@@ -8,10 +8,11 @@
 | EHole(棱洞)3.0  | 对资产中重点系统指纹识别的工具             |https://github.com/EdgeSecurityTeam/EHole/releases|
 | JSFinder      | 一款用作快速在网站的js文件中提取URL，子域名的工具 |https://github.com/Threezh1/JSFinder|
 | Layer子域名挖掘机   | 挖掘资产子域名的神器                  |https://github.com/euphrat1ca/LayerDomainFinder/releases|
+|altdns| 第二轮DNS暴力破解工具                |https://github.com/infosec-au/altdns|
 | WebRobot      | 大蜘蛛：网络安全检测工具                |https://pan.baidu.com/s/12Mv2NCMOYJM6-pewynCwPw?pwd=nzvh|
 | 御剑            | 后台地址发现工具                    |https://pan.baidu.com/s/1VHfIWj48cTt2lEAGaCIo1Q?pwd=ecr5|
 |ds_store_exp| 发现DS_Store中的秘密              |https://github.com/lijiejie/ds_store_exp|
-|Seay-Svn| SVN源代码泄露利用工具 |https://github.com/Introspelliam/tools/blob/master/Seay-Svn/源代码泄露漏洞利用工具.exe|
+|Seay-Svn| SVN源代码泄露利用工具                |https://github.com/Introspelliam/tools/blob/master/Seay-Svn/源代码泄露漏洞利用工具.exe|
 
 
 
