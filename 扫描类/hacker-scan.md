@@ -13,6 +13,9 @@
 | Xray      | Xray 是一款功能强大的安全评估工具，由多名经验丰富的一线安全从业者呕心打造而成                                       |https://github.com/chaitin/xray/releases|
 | Xray 高级版  | Xray高级版，提供了更多的功能和特性                                                             |https://pan.baidu.com/s/13DmaQOyWo5lajUVULQiHfw?pwd=adu9|
 |fuxploider| 文件上传漏洞扫描程序和利用工具                                                                 |https://github.com/almandin/fuxploider|
+|Upload_Bypass| 文件上传漏洞Fuzz工具，基于Bp抓包的方式                                                          |https://github.com/sAjibuu/Upload_Bypass/|
+|upload-fuzz-dic-builder| 文件上传漏洞fuzz生成工具                                                                  |https://github.com/c0ny1/upload-fuzz-dic-builder|
 |ThinkphpGUI| Thinkphp漏洞检测工具                                                                  |https://github.com/Lotus6/ThinkphpGUI/|
+
 
 希望您喜欢这些黑客工具！我们将持续更新和完善这个项目，如果您有其他有趣的黑客工具或对现有工具的改进建议，请随时提交PR，让我们一起加强网络安全防御，保护网络世界！🌐💪
